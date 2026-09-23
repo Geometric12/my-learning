@@ -3,4 +3,5 @@
 ### cpp/  
   Binary_conversion.cpp  #通过顺序栈的方式编写一个二进制转换器  
   KMP.cpp  #字符串匹配BF算法与KMP算法的两种方式  
-  SelectionSort.cpp  #选择排序
+  SelectionSort.cpp  #选择排序  
+  QuickSort.cpp  #快速排序(base)
